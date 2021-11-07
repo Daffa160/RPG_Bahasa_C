@@ -13,4 +13,4 @@ game turn base, musuh yng dilawan adalah slime
 
 
 //PLAYER//
-action yang bisa digunakan player untuk saat ini hanya attack dan status player
+* action yang bisa digunakan player untuk saat ini hanya attack dan status player
